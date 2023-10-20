@@ -1,5 +1,5 @@
-# 💫 About Me:
-🍒 I'm currently learning more about developing applications using Java and Python<br>👯‍♀️ I'm looking to collaborate on LinkedIn<br>🤝 I'm looking for help with job search<br>💬 Ask me about any tech-related stuff<br>⚡ Fun fact: I spend my free time listening to music
+# Hola, I'm Gnana Deepthi Pasam! 👋
+• 🍒 I'm currently learning more about developing applications with Java and Python<br>• 👯‍♀️ I'm looking to collaborate on LinkedIn<br>• 🤝 I'm looking for help with job search<br>• 💬 Ask me about any tech-related stuff<br>• 📫 How to reach me: <br>• 😄 Pronouns: She/Her<br>• ⚡ Fun fact: I spend my free time cooking and listening to music
 
 
 ## 🌐 Socials:
