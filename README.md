@@ -1,7 +1,6 @@
 # Hola, I'm Gnana Deepthi Pasam! 👋
 • 🍒 I'm currently learning more about developing applications with Java and Python<br>• 👯‍♀️ I'm looking to collaborate on LinkedIn<br>• 💬 Ask me about any tech-related stuff<br>• 😄 Pronouns: She/Her<br>• ⚡ Fun fact: I spend my free time cooking and listening to music
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gnana-deepthi-pasam) 
 
